@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello
 
 <!--
 **shamsiddins3608/shamsiddins3608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Shamsiddin+Shamsiev&textBg=false&fontColor=232D30&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=232D30&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
 [![Sham's GitHub stats](https://github-stats-extended.vercel.app/api?username=shamsiddins3608)](https://github.com/stats-organization/github-stats-extended)
+
